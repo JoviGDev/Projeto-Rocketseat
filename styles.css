@@ -11,7 +11,7 @@ body {
   background-size: cover;
   */
   background: url(./assets/bg-desktop.jpg) no-repeat top center/cover;
-  background-size: 150%;
+  height: 100vh;
 }
 body * {
   font-family: "Inter", sans-serif;
